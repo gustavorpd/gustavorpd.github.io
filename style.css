@@ -1,0 +1,119 @@
+* {
+    margin: 10px;
+  }
+
+  body{
+      background-color: rgb(212, 212, 212);
+     text-align: center;
+     font-size: 18px;
+  }
+  
+  .barra-navegacao {
+    background-color: rgb(209, 213, 226);
+    overflow:hidden
+
+  }
+
+ .barra-navegacao a{
+    font-size: 20px;
+    float: center;
+    color: rgb(49, 57, 160);
+    text-align: center;
+    padding: 10px 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+ }
+
+
+  .header1{
+     text-align: center;
+     padding: 30px 30px 30px;
+     font-size: 18px;
+  }
+ 
+  #eu{
+      padding: 10px;
+      border-radius: 100%;
+      background-color: rgb(76, 76, 153);
+    
+  }
+    .sobre{
+        text-align: center;
+        font-size: 18px;
+    }
+  
+    h2, h3{
+      text-align: center;
+      color: rgb(53, 53, 189);
+      font-size: 18px;
+  }
+
+  #curiosidades{
+      border-radius: 100%;
+      padding: 10px;
+      background-color:rgb(76, 76, 153);
+      
+      
+  }
+   
+  .impar{
+      font-style:italic;
+
+  }
+
+  .habteste{
+  float: left;
+  font-size: 18px ;
+  margin-left: 100px;
+  }
+
+  .infos{
+      font-size: 18px;
+  }
+
+  .lista{
+  margin-right: 300px;
+  font-size: 18px;
+  float: right;
+  
+  }
+
+  li:active{
+      background-color: rgb(84, 84, 141);
+  }
+      
+  #nut{
+ padding: 6px;
+ background-color: rgb(76, 76, 153);
+  }
+  
+  #geleia{
+ margin-bottom: -200px;
+ padding: 6px;
+ background-color: rgb(76, 76, 153);
+  }
+  
+  #bacon{
+ margin-bottom: -400px;
+ padding: 6px;
+ background-color:rgb(76, 76, 153); 
+ 
+  }
+
+  #descrinut{
+      float: left;
+      margin-left: 400px;
+      margin-top: -150px;
+      font-size: 18px;
+  }
+
+  #descrigel{
+ margin-top: 80px;
+ margin-left: -50px;
+ font-size: 18px;
+  }
+
+  #describacon{
+      margin-top: 150px;
+      margin-left: 310px;
+      font-size: 18px;
+  }
